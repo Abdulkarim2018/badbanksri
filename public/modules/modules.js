@@ -138,7 +138,6 @@ ui.default = `
         <div class="card-header">Welcome</div>
         <div class="card-body">
             <p class="card-text">Welcome to the Bad Bank by Sandro. This is the result of the MIT Digital Transformation Online Course. I'm happy to spend your money :-). Merry Christmas and a Happy New Year</p>
-            <img src="bank.png" width="30" height="30" class="d-inline-block align-top" alt=""/>
         </div>
     </div>
 `;
