@@ -159,7 +159,7 @@ ui.content = `
     <div class="card-header">Output</div>
     <div class="card-body">
         <form>
-            <textarea rows="10" cols="120" id="output">
+            <textarea rows="8" cols="120" id="output">
             </textarea>
         </form>
     </div>
